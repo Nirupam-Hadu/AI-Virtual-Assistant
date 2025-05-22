@@ -1,2 +1,2 @@
 # AI-Virtual-Assistant
-A Simple and effective virtual Assistant
+A simple yet effective virtual assistant designed to perforn everyday tasks hands-free. :)
